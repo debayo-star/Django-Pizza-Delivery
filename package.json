@@ -73,13 +73,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/notarious2/Django-Pizza-Delivery.git"
+    "url": "git+https://github.com/debayo-star/Django-Pizza-Delivery.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/notarious2/Django-Pizza-Delivery/issues"
+    "url": "https://github.com/debayo-star/Django-Pizza-Delivery/issues"
   },
-  "homepage": "https://github.com/notarious2/Django-Pizza-Delivery#readme"
+  "homepage": "https://github.com/debayo-star/Django-Pizza-Delivery#readme"
 }
